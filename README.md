@@ -1,4 +1,4 @@
-### Olá, eu sou Verônica Paranhos, estudante de front e back-end 😊
+### Olá, eu sou Verônica Paranhos, estudante de front-end e back-end 😊
 
 - 📚 Estudando HTML, CSS, JavaScript e Regex
 - 🖥️ Apaixonada por Ruby e Phyton
