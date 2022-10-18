@@ -5,9 +5,9 @@
 - 😄 Pronomes: ela/dela
 
 <div>
-  <a href="https://github.com/Veronicahp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Veronicahp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronicahp&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/veronicaparanhos">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=veronicaparanhos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicaparanhos&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="V-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
