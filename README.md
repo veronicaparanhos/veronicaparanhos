@@ -1,6 +1,6 @@
 ### Olá, eu sou Verônica Paranhos, estudante de front-end e back-end 😊
 
-- 📚 Estudando HTML, CSS, JavaScript, React e Regex
+- 📚 Estudando HTML, CSS, JavaScript, React
 - 🖥️ Futura Dev Full Stack
 - 😄 Pronomes: ela/dela
 
